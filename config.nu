@@ -682,6 +682,5 @@ def lsg [] {
   ls -a | sort-by type | grid -c --separator "     "
 }
 
-def lst [] {
-  tre -l 1
-}
+alias lst = tre -l 1 -a
+alias sp = sumatrapdf
