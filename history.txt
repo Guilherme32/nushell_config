@@ -1,0 +1,3536 @@
+:q
+rg
+rg -h
+ls
+cd %appdata%
+cd appdata
+cd nushell
+ls
+cd roaming
+cd lushell
+cd nushell
+ls
+hx
+ls | rg .nu
+ls
+ls | sort-by size
+ps
+ps | sort-by cpu
+ps | sort-by mem
+ps | where cpu>5
+ps | where cpu > 5
+starship
+asdw
+$nu.env-path
+$nu.config-path
+prompt
+ls
+exa
+interessante
+ls
+exa
+easd
+tes
+teste
+cd appdata
+cd $appdata
+ls
+cd ..
+cd users
+cd guilh
+hx
+cd ..
+cd nushell\
+starship -h
+starship config
+cd ..
+cd .config\
+cd wezterm\
+ls
+teste
+ls
+ls | rg file
+cd ..
+cd appdata
+cd roaming
+cd nushell\
+hx env.nu
+ls
+cd ..
+cd appdata
+cd roaming
+cd ~
+cd .config
+ls
+hx starship.toml
+ls
+hx starship.toml
+ls
+hx starship.toml
+ls
+hx wezterm.lua
+cd ..
+ls
+cargo install du-dust
+dust
+cd .config\
+cd wezterm\
+cd ..
+ls
+dust
+cd appdata
+cd local
+cd temp
+ccleaner
+ls | rg google
+ls | rg Google
+cd ..
+ls | rg Google
+dust Google
+del Google
+rm Google
+rm Google --recursive
+ls | rg Google
+cd ..
+dust
+cd local\Temp\
+rm . --recursive
+rm * --recursive
+cd ..
+dust
+cd local
+cd .
+cd ..
+cd local
+cd atom\
+ls
+dust
+ls
+atom -v
+atom
+rm app-1.60.0\ --recursive
+ls
+cd ..
+dust
+cd SquirrelTemp\
+ls
+dust
+cd ..
+dust
+cd appdata
+cd local
+cd pip
+ls
+dust
+rm * --recursive
+cd ..
+dust
+cd pyinstaller\
+dust
+cd ..
+rm pyinstaller -r
+cd pypa\
+cd ..
+dust
+ps | where cpu > 5
+date
+date now
+date now | date to-table
+sys
+sys | get host
+help rg
+rg -h
+help path
+help commands
+cargo install porsmo
+rustc -v
+rustc -h
+rustc -V
+rustup update
+rustc -V
+cargo install porsmo
+cargo install climer
+climer 10s && echo acabou
+climer 10s ; echo acabou
+cargo install sing
+sing -t "Hello world"
+sing -t "1"
+sing -t "12"
+sing -t "12321"
+sing -t "Teste teste do teste algo diferente hello world"
+cargo uninstall sing
+cargo install termusic
+termusic -h
+termusic
+cd Music\
+termusic alarms\
+termusic .
+hx wezterm.lua
+mpv
+termusic alarms\mixkit-battleship-alarm-1001.wav
+unzip -h
+\ip -h
+zip -h
+7z
+cd mpv-x86_64-v3-20230212-git-a40958c\
+mpv
+mpv mixkit-battleship-alarm-1001.wav
+mpv --list-options
+mpv --loop-file=inf mixkit-battleship-alarm-1001.wav
+climer 10s mpv --loop-file=inf mixkit-battleship-alarm-1001.wav
+climer 10s mpv -- --loop-file=inf mixkit-battleship-alarm-1001.wav
+climer 10s ; mpv --loop-file=inf mixkit-battleship-alarm-1001.wav
+tp
+tp stp
+ls
+tp
+tp t
+tp tcc
+tp lyah
+cd ..
+cd C:/
+cd utilitarios\
+hx tp.bat
+touch test.nu
+test.nu
+test
+test-func
+tes
+test
+hx test.nu
+mv test.nu test-func.nu
+test-func
+test-func.nu
+def test-func [x] {<\n>echo "test $x"<\n>}
+test-func 1
+def test-func [x] {<\n>echo $"test $x"<\n>}
+test-func 1
+def test-func [x: string] {<\n>echo $"test ($x)"<\n>}
+test-func 1
+cd ~
+test-func 1
+test-func 3
+def test-func [x: string] {<\n>echo $"test ($x)"<\n>}
+def test-func [x: string] {<\n> cd ..<\n>}
+test-func 
+test-func 1
+test-func 2
+cd ..
+cd guilh\
+def test-func [x: string] {<\n> x<\n>}
+test-func test
+def test-func [x: string] {<\n> $x<\n>}
+test-func test
+test-func test | cd
+def test-func [x: string] {<\n> $x<\n>}
+def test-func [x: string] {<\n> enter $x<\n>}
+test-func ..
+test-func appdata
+def-env test-func [x: string] {<\n> cd $x<\n>}
+test-func ..
+cd guilh\
+cd .config\ls
+ls
+cd ..
+cd .config
+cd guilh\
+cd .config\
+ls
+$nu.config-path
+cd ..
+cd appdata
+cd roaming
+cd nushell\
+hx test-func.nu
+if (true) (echo test) ()
+if true {echo test}
+tp stp
+tp
+hx tp.bat
+cd music
+cd alarm
+cd alarms\
+tp
+tp test
+mv tp.bat tb2.bat
+tp
+tp test
+tp
+climer 11m ; mpv mixkit-battleship-alarm-1001.wav
+tp
+tp tcc
+tp
+tp lyah
+mpv
+tp
+hx config.nu
+cd appdata
+cd Roaming\
+ls
+cd nushell\ls
+ls
+cd nushell\
+ls
+tp
+tp crab
+tp
+tp crab
+tp
+tp crab
+tp
+tp crab
+tp
+tp crab
+tp test
+tp crab
+tp
+tp lyah
+tp
+tp stp
+hx config.nu
+hx --grammar
+hx --grammar fetch
+hx config.nu
+tp
+cd music
+alarm
+cd alarms\
+mpv mixkit-battleship-alarm-1001.wav
+mpv -h
+mpv
+mpv -h
+mpv
+mpv -h
+mpv help
+mpv --help
+mpv.com
+mpv.com mixkit-battleship-alarm-1001.wav
+cd ..
+mpv
+mpv.com
+mpv
+mpv -h
+mpv.com
+ls
+mpv
+mpv
+:q
+mpv
+mpv.exe
+cd ..
+mpv
+mpv.exe
+mpv.com
+mpv
+mpv.com
+mpv
+mpv.com
+bell
+noice
+noise
+winget okular
+winget install okular
+okular
+winget install KDE.Okular
+okular
+cargo install exa
+cargo-binstall zellij
+cargo install --locked zellij
+cd appdata
+cd tmep
+cd local
+cd temp
+mkdir .opera
+browsh_1.8.0_windows_amd64.exe 
+whatscli.exe 
+/commands
+:q
+q
+whatscli.exe 
+ls
+clear
+ls
+clear
+cd ..
+ls
+cd ..
+ls
+cd appdata
+cd local
+cd temp
+ls
+cd podcasts\
+termusic
+termusic .
+termusic -h
+pip install youtube_dl
+youtube-dl
+winget install youtube-dl
+youtube-dl
+termusic .
+cd .config
+ls
+hx wezterm\wezterm.lua
+cd .config
+ls
+ls alacritty
+mkdir alacritty
+touch alacritty.yml
+hx alacritty.yml
+ls
+del alacritty.yml
+rm alacritty.yml
+cd alacritty\
+touch alacritty;yml
+touch alacritty.yml
+ls
+rm alacritty
+hx alacritty.yml
+cd ..
+rm alacritty -r
+ls
+hx
+nvim
+hx
+ls
+cd ..
+cd .config
+ls
+hx starship.toml
+cd wezterm\
+hx wezterm.lua
+hx
+hx
+hx wezterm.lua
+nvim
+%terminfo
+termingo
+terminfo
+nvim
+ls
+nvim
+conpty -V
+youtube-dl
+termusic
+hx alacritty.yml
+termusic
+youtube-dl
+termusic
+youtube-dl -h
+cd desktop
+youtube-dl -o controllah.m4a https://www.youtube.com/watch?v=ZvRlusdjMSs
+youtube-dl -U
+nmap
+winget install nmap
+where nmap
+whereis nmap
+nmap
+cd appdata
+cd packages
+cd roaming
+cd packages
+ls
+cd ..
+cd local
+cd packages
+cd Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\
+ls
+cd tempstate
+cd winget
+ls
+cd ..
+ls
+ls -t
+ls --tree
+ls -h
+ls -a
+exa
+cd %temp%
+cd $temp
+cd $TEMP
+ls
+cd winget
+ls
+rm Insecure.Nmap.7.80\
+ls
+cd ..
+whereis youtube-dl
+cd .config
+cd wezterm\
+hx wezterm.lua
+git add wezterm.lua
+git commit -m "update config"
+git push
+tpstp
+tp stp
+ls
+cd termo_de_bolsa\
+ls
+okular
+ls
+`Guilherme Sampaio ass.pdf`
+okular
+okular `Guilherme Sampaio ass.pdf`
+ls
+hx `555_total_extraido.spi`
+hx Circ_555_astavel.asc
+hx `555_total_extraido.spi`
+ls
+rm *.log
+ls
+rm *.raw
+ls
+hx `555_extraido_monoestavel.spi`
+starship -h
+starship explain
+starship module
+cd
+cargo install exa
+ffplay
+cd music
+ls
+cd podcast
+ls
+cd ..
+cd podcasts
+ls
+ffplay kp204-pigmentoj.m4a
+ q:q
+make
+make menuconfig
+hx Makefile
+cd ..
+ls
+cd /home
+cd ~
+cd esp
+whereis cygwin
+cd /usr
+cd D:/
+cd espstuff
+ls
+mkdir 8266
+cd 8266\
+git clone --recursive https://github.com/espressif/ESP8266_RTOS_SDK.git
+$IDF_PATH
+IDF_PATH
+$env.IDF_PATH
+pip install -r --user $env.IDF_PATH/requirements.txt
+pip install -r --user "$env.IDF_PATH"/requirements.txt
+pip install -r --user $env.IDF_PATH.requirements.txt
+pip install -r --user $env.IDF_PATH/"requirements.txt"
+goto
+cd ESP8266_RTOS_SDK\
+pip install requirements.txt
+pip install -r requirements.txt
+cd ..
+cd Projects\
+cd embedded\
+cd esp8266\
+ls
+cd hello_world\
+make menuconfig
+makemenuconfig
+make menuconfig
+mingw32
+mingw32.exe
+mingw32
+tp
+cd .config
+cd ~
+cd .config
+ls
+cd %appdata%
+cd ..
+cd appdata
+cd local
+$env.config
+echo $nu.env-path
+cd .
+cd ..
+cd Roaming\
+cd nushell\
+tp esp
+tp
+hx
+tp esp
+cd ..
+cd bin
+tp esp
+cd esp8266\hello_world\
+hx
+cd ..
+ls
+cd ..
+ls
+cd home\
+cd guilh\
+ls
+hx .bash_profile
+tp esp
+cd ..
+cd guilh\
+ls
+cd ESP8266_RTOS_SDK\
+ls
+cd examples\
+ls
+cd wifi\
+ls
+cd getting_started\
+ls
+cd softAP\
+ls
+cat README.md
+tp esp
+ls
+cd esp8266\
+ls
+cd hello_world\
+ls
+cd main
+hx main\softap_example_main.c
+cd ..
+ls
+cd ..
+ls
+hx main.c
+hx
+mv main.c
+mv hello_world_main.c main.c
+ls
+hx
+ls
+cd ..
+ls
+cd ..
+cd appdata
+cd roaming
+cd nushell\
+ls
+hx config.nu
+tp esp
+ls
+cd hello_world\
+hx
+ls
+cd main
+hx
+touch wifi.c
+touch wifi.h
+hx
+hx wifi.c
+hx wifi.h
+cd $env.IDF_PATH
+cd ..
+cd ESP8266_RTOS_SDK\examples\
+ls
+cd storage\
+ls
+cd spiffs\
+ls
+hx
+hx partitions_example.csv
+cd main
+ls
+hx spiffs_example_main.c
+cd ..
+ls
+cd wifi\
+ls
+cd getting_started\
+ls
+cd station\
+ls
+choco
+winget glow
+winget install glow
+glow
+glow README.md
+glow
+hx main.c
+hx
+tp esp
+cd hello_world\
+cd main\
+cd ~
+cd .config
+cd .helix
+cd ..
+cd appdata
+cd local
+cd helix\
+ls
+cd ..
+cd Roaming\
+cd helix\
+ls
+hx
+hx languages.toml
+tp esp
+:q
+cd ..
+cd ESP8266_RTOS_SDK\examples\
+ls
+cd /~.config
+cd ~
+cd .config
+ls
+hx starship.toml
+cd wifi\
+ls
+cd getting_started\station\
+ls
+cd main
+ls
+bat -h
+cargo install bat
+ls
+bat station_example_main.c
+cd ..
+cd ESP8266_RTOS_SDK\
+cd examples\wifi\getting_started\
+cd station\
+cd main\
+tp esp
+cd ..
+cd ESP8266_RTOS_SDK\
+cd examples
+cd wifi\getting_started\station\
+ls
+cd main
+cd hello_world\
+ls
+cd main
+ls
+bat station_example_main.c
+hx wifi.c
+tp esp
+cd hello_world\
+cd main\
+cd ..
+cd..
+cd ..
+cd ESP8266_RTOS_SDK\examples\storage\spiffs\
+hx main.c
+ls
+rm nvs.h
+ls
+bat server.c
+bat main.c
+bat server.c
+hx
+tp esp
+cd hello_world\
+cd main\
+hx
+tp esp
+ls
+cd hello_world\
+cd main\
+hx
+ls
+tp esp
+ls
+cd hello_world\
+cd ma
+cd main\
+ls
+hx
+tp esp
+cd hello_world\
+ls
+cd main\
+hx
+tp esp
+cd hello_world\
+touch partitions.csv
+hx partitions.csv
+mkdir spiffs_image
+cd spiffs_image\
+hx hello.txt
+cd ..
+cd main\
+hx
+cd ..
+ls
+mvdir -h
+mv spiffs_image web_code
+ls
+cd web_code\
+ls
+:q
+cd ..
+cd main\
+hx
+ls
+cd ..
+ls
+cd web_code\
+ls
+cd ..
+ls
+cd main\
+hx server.c
+hx
+cd ..
+ls
+hx CMakeLists.txt
+cd ..
+ls
+hx .bashrc
+cmake -h
+cmake -v
+cmake
+tp esp
+cd hello_world\
+ls
+hx partitions.csv
+cd ..
+cd ESP8266_RTOS_SDK\components\spiffs\
+ls |rg py
+ls
+cd spiffs\
+ls
+cd ..
+python -V
+python parttool.py --port COM3 read_partition --partition-type=data --partition-subtype=spiffs --output read_spiffs.bin
+make menuconfig
+ls
+hx partitions.csv
+hx commands.txt
+cd main\
+ls
+hx server.c
+tp esp
+cd hello_world\main\
+hx main.c
+hx ..\commands.txt
+cd ..
+ls
+ls web_code\
+cat sdkconfig | rg SPIFFS
+touch spiffsgen.py
+hx spiffsgen.py
+bat partitions.csv
+hx sdkconfig
+ls build
+ls
+rm build -r
+ls
+bat sdkconfig | rg SPIFFS
+ls
+mkdir unpacked
+ls
+cd unpacked\
+ls
+bat hello.txt
+cat hello.txt
+cd ..
+rm unpacked -r
+ls
+rm __pycache__ -r
+ls
+bat partitions.csv
+ls
+bat sdkconfig | rg SPIFFS
+hx sdkconfig
+bat sdkconfig | rg SPIFFS
+bat hello.txt
+rm hello.txt
+ls
+bat sdkconfig | rg SPIFFS
+bat partitions.csv
+mv sdkconfig sdk_backup
+rm sdkconfig.old
+ls
+cd..
+cd ..
+hx
+cd main\
+ls
+hx
+hx .bash_profile
+tp esp
+cd hello_world\
+cd main
+cd ..
+gzip -h
+cd web_code\
+gzip -d c3.min.js.gz
+gzip -c c3.min.js.gz
+gzip -c c3.min.js
+cd ..
+cd web_code\
+gzip -h
+gzip c3.min.js
+hx
+hx
+tp esp
+cd hello_world\main\
+cd ~
+cd .config
+cd ..
+cd appdata
+cd roaming
+cd helix\
+ls
+mkdir themes
+cd themes
+hx mytheme.toml
+ls
+touch kanagaua.toml
+hx kanagaua.toml
+cd ..
+hx config.toml
+git add themes
+git add config.toml
+git commit -m "Update config and add custom theme"
+git push
+ls
+hx languages.toml
+git add languages.toml
+git commit -m "Update languages.toml"
+git push
+hx server.c
+tp esp
+cd main
+cd hello_world\main\
+cd ..
+cd web_code\
+ls
+hx fire_icon.svg
+cd ..
+cd main\
+ls
+hx main.c
+cd ..
+cd ESP8266_RTOS_SDK\
+cd components\spiffs\
+ls
+hx esp_spiffs.c
+cd ..
+hx
+cd ..
+cd ~
+cd ..
+cd guilh\
+cd apptada
+cd appdata
+cd roaming
+cd ..
+cd local
+cd nvim\
+ls
+hx init.vim
+cd lua
+ls
+cd ..
+hx server.c
+tp esp
+ls
+cd hello_world\
+cd main\
+ls
+hx server.c
+tp esp
+cd hello_world\main\
+hx
+tp esp
+cd hello_world\
+cd main\
+hx sensor_reader.c
+tp esp
+cd hello_world\main\
+winget uninstall nmap
+tp esp
+cd hello_world\main\
+hx sensor_reader.c
+tp esp
+cd hello_world\main\
+hx sensor_reader.c
+rustlings
+cargo install rustlings
+rustlings
+cd rustlings
+cd d:/
+cd cursos\
+ls
+mkdir rustlings
+cd rustlings\
+rustlings
+cd ..
+rmdir rustlings\
+git clone -b 5.4.1 --depth 1 https://github.com/rust-lang/rustlings
+cd rustlings\
+rustlings
+cd exercises\
+cd intro\
+rustlings watch
+hx intro1.rs
+tp
+tp crab
+ls
+ls screen-use\
+mkdir tauri_yew_tutorial
+cd tauri_yew_tutorial\
+git init
+cargo new --bin frontend
+cd frontend\
+ls
+mkdir public
+rustup add wasm32-unknown-unknown
+rustup target add wasm32-unknown-unknown
+cargo install trunk
+cargo install wasm-bindgen-cli
+hx index.hml
+mv index.hml index.html
+hx index.html
+touch main.css
+hx main.css
+trunk build
+cd ..
+trunk build
+cd frontend\
+mkdir public
+mv main.css public/main.css
+trunk build
+trunk serve
+ls
+cd target
+ls
+du
+dust
+cd ..
+clear
+cargo add yew
+ls
+cd src
+trunk serve
+hx main.rs
+cd ..
+tp crab
+cd tauri_yew_tutorial\
+cargo install create-tauri-app
+man tauri-create-app
+tauri-create-app -h
+man create-tauri-app
+create-tauri-app -h
+cargo create-tauri-app -h
+cd ..
+mkdir tauri_yew_tests
+cd tauri_yew_tests\
+cargo create-tauri-app -h
+cargo create-tauri-app testing
+cd testing\
+hx src\main.rs
+cargo tauri dev
+cargo tauri -h
+cargo install cargo-tauri
+cargo install tauri
+cargo install tauri-cli
+cargo tauri -h
+tp crab
+ls
+cd tauri_yew_tests\
+ls
+cd testing
+ls
+rustup update
+cargo tauri dev
+cargo install --update wezterm
+cargo install wezterm
+where wezterm
+whereis wezterm
+$env.PATH
+echo $env.PATH
+echo $env.Path
+echo $env.Path | rg wezterm
+echo $env.Path | rg WezTerm
+cargo tauri dev
+ls
+hx index.html
+rm .vscode -r
+ls
+hx Cargo.toml
+cd src-tauri\
+ls
+cd src
+ls
+hx main.rs
+cd ..
+cd src
+hx app.rs
+cd ..
+hx
+cd ..
+ls
+cd testing\
+ls
+hx .gitignore
+hx .taurignore
+hx Trunk.toml
+git init
+git add .gitignore
+git commit -m "Starting Project"
+git add .
+hx README.md
+git add README.md
+git commit -m "Starting Project"
+tp crab
+cd tauri_yew_tests\
+cd testing\
+ls
+hx
+tp crab
+cargo new sycamore-tests
+cd sycamore-tests\
+ls
+ls -a
+hx Cargo.toml
+rustup -h
+rustup show
+ls
+cd src
+ls
+trunk serve
+cd ..
+trunk serve
+ls
+mv style.css style.scss
+trunk serve
+hx main.rs
+tp crab
+cd sycamore-tests\
+ls
+hx
+tp crab
+ls
+cd screen-use\
+ls
+bat Cargo.toml
+cd src
+bat main.rs
+hx
+tp esp
+cd hello_world\
+ls
+git init
+ls -a
+hx .gitignore
+hx
+ls
+rm spiffs_image_8266.bin
+rm spiffs_image_mk.bin
+rm spiffsgen.py
+ls
+rm recovered_binaries
+rm recovered_image.bin
+ls
+hx README.md
+hx
+cd ~
+cd appdata
+cd roaming
+cd helix\
+ls
+hx languages.toml
+hx README.md
+ls
+hx commands.txt
+rm commands.txt
+ls
+hx CMakeLists.txt
+ls
+cd ..
+mv hello_world\ oven_control
+cd oven_control\
+ls
+hx Makefile
+ls
+cd main\
+ls
+hx CMakeLists.txt
+bat component.mk
+cd ..
+ls
+hx Makefile
+cd ..
+rg oven_control\* hello_world
+rg oven_control hello_world
+rg hello_word oven_control\
+rg oven_control oven_control\
+ls
+ls oven_control\
+cd ov
+cd oven_control\
+ls 
+rm build -r
+ls
+cd main
+ls
+tp esp
+cd ..
+cd esp8266\
+cd ..
+ls
+cd ..
+ls
+ls **/* | rg xtensta
+cd home\
+ls
+cd guilh\
+ls
+cd xtensa-lx106-elf\
+ls
+cd bin
+ls
+cd ..
+ls
+cd ..
+cd opt
+ls
+cd xtensa-lx106-elf\
+ls
+cd bin
+ls
+:q
+cd ..
+cd home
+cd guilh\
+ls
+mv xtensa-lx106-elf\ backup
+rm backup\
+rm backup\ -r
+ls
+mv cmake-3.26.0-windows-x86_64\ bak
+rm bak -r
+ls
+cd ..
+cd opt
+cd xtensa-lx106-elf\
+ls
+cd bin
+pwd
+ls
+hx main.c
+clang
+clangd
+hx main.c
+clangd -query-driver -query-driver D:/espstuff/8266/msys32/opt/xtensa-lx106-elf/bin
+clangd -query-driver D:/espstuff/8266/msys32/opt/xtensa-lx106-elf/bin
+hx main.c
+clangd -query-driver D:/espstuff/8266/msys32/opt/xtensa-lx106-elf/bin/xtensa-lx106-elf-gcc
+hx main.c
+clangd -query-driver=D:/espstuff/8266/msys32/opt/xtensa-lx106-elf/bin/xtensa-lx106-elf-gcc
+hx main.c
+cd ..
+hx main\main.c
+hx .bash_profile
+clangd -h
+clangd -h | query
+clangd -h | rg query
+hx .bash_profile
+hx main\main.c
+hx
+hx main\main.c
+ls build
+ls build | rg compile
+ls build | rg .json
+ls
+cmake
+ninja
+hx 
+hx
+cd main\
+hx
+tp esp
+ls -c
+ls | grid
+ls | grid -c
+lsg
+lsd
+cd ~
+cd appdata
+cd roaming
+cd nushell\
+ls
+lsg
+ls
+ls -m
+ls -a -l
+lsg
+ls -c
+ls | list -c
+lsg
+tp esp
+lsg
+cd oven_control\
+ls
+lsg
+tp esp
+cd oven_control\
+lsg
+hx config.nu
+cd main
+lsg
+lsg | table
+ls | grid -c
+ls | grid -c | table
+lsg | where name ends-with c
+ls
+lsg
+hx
+tp esp
+cd oven_control\
+hx
+cargo install helix
+cargo install --update helix
+cargo -v
+cargo -V
+cargo install --force helix
+cargo install hx
+hx -h
+hx -V
+cargo install helix-editor
+whereis hx
+hx -V
+cd ~
+cd appdata
+cd roaming
+cd helix\
+hx languages.toml
+hx
+ls
+cd themes
+hx kanagaua.toml
+cd ..
+lsg
+git add themes
+git add config.toml
+git add languages.toml
+git commit -m "Update config"
+git push
+cd ~
+cd AppData\Roaming\helix\
+cd themes\
+hx kanagaua.toml
+git add kanagaua.toml
+git commit -m "Update config"
+git push
+cd main
+rm pins.h
+lsg
+hx wifi.h
+tp esp
+lsg
+cd oven_control\
+hx
+cd main
+lsg
+mv storage.c storage_nvs.c
+mv storage.h storage_nvs.h
+hx
+tp esp
+cd oven_control\
+hx
+tp esp
+cd oven_control\
+cd ~
+cd .config\wezterm\
+hx
+cd ..
+hx
+cd ..
+cd AppData\Roaming\helix\
+cd themes\
+hx
+hx kanagaua.toml
+cd appdata\Roaming\helix\
+git add .
+git commit -m "Update config"
+git push
+cd ~
+cd .config\wezterm\
+ls
+git add wezterm.lua
+git commit -m "Update config"
+git push
+tp esp
+cd ~
+cd AppData\Roaming\helix\themes\
+hx kanagaua.toml
+git add .
+git commit -m "Update config"
+git push
+hx
+tp esp
+cd oven_control\
+hx
+hx
+tp esp
+cd oven_control\
+cd .config\wezterm\
+ls
+hx wezterm.lua
+cd ~
+lsg
+tp esp
+lsg
+cd oven_control\
+lsg
+hx
+cd main
+lsg
+touch serial_comm.c
+touch serial_comm.h
+hx
+tp esp
+cd oven_control\
+hx
+tp esp
+cd oven_control\
+cd main
+touch helpers.c
+touch helpers.h
+hx
+lsg
+cd web_code\
+lsg
+ls
+cd ..
+cd web_code\
+lsg
+bat control.html
+hx
+hx
+tp esp
+cd ov
+cd oven_control\
+hx
+dust
+tp esp
+cd oven_control\
+clear
+cargo install ncspot
+tp esp
+cd oven_control\
+cd ..
+lsg
+cd ESP8266_RTOS_SDK\
+lsg
+cd components\
+lsg
+cd esp8266\
+lsg
+cd ..
+find server
+find *.h
+find -name "server"
+man find
+find esp
+lsg
+cd esp_http_server\
+lsg
+cd include
+lsg
+bat http_server.h
+bat esp_http_server.h
+hx
+lsg
+cd web_code\
+lsg
+cd ..
+mkdir helpers
+cd helpers
+touch upload.py
+hx
+pip install python-lsp-server
+hx
+py-lsp
+pylsp
+tp esp
+cd oven_control\
+hx
+pylsp -h
+pip install python-lsp-server
+whereis python
+pip install --upgrade pip
+pip install python-lsp-server
+whereis conda
+conda install -c conda-forge python-lsp-server
+echo $env
+echo $env | bat
+echo $env.path
+echo $env.Path
+echo $env.Path | bat
+whereis python
+pip uninstall python-lsp-server
+pip install python-lsp-server[all]
+pylsp -h
+tp esp
+cd oven_control\
+cd helpers\
+echo "Teste teste do teste..." > test.txt
+lsg
+echo "Teste teste do teste..." |> test.txt
+echo "Teste teste do teste..." save test.txt
+echo "Teste teste do teste..." | save test.txt
+lsg
+bat test.txt
+python upload.py
+cd ..
+cd web_code\
+bat index.html
+cd ..
+cd helpers
+python upload.py
+clear
+python upload.py
+ q:q
+python upload.py
+hx
+tp esp
+cd oven_control\
+cd helpers\
+python upload.py
+hx
+tectonic -h
+tectonic -X -h
+lsg
+mkdir regencia
+tectonic -X new abril
+cd abril\
+ls
+tectonic -X build
+tectonic -X -h
+lsg
+cd build
+lsg
+cd default\
+lsg
+cd src
+cd ..
+cd src\
+hunspell -d pt_BR index.tex
+hunspell -d pt_BR -l index.tex
+hunspell -h
+hunspell -d pt_BR -l -m index.tex
+hunspell -d pt_BR -l index.tex
+hunspell -h
+hunspell -d pt_BR -l -s index.tex
+hunspell -d pt_BR -l index.tex
+hx index.tex
+sumatrapdf default.pdf
+tectonic -X watch
+tp esp
+cd oven_control\
+hx
+tp esp
+cd oven_control\
+cd helpers\
+python upload.py
+cd ..
+cd web_code\
+gzip -d control.js.gz
+lsg
+python upload.py
+cd ..
+cd helpers\
+python upload.py
+cd ..
+cd web_code\
+gzip -d c3.min.js.gz
+lsg
+gzip -d d3.v4.min.js.gz
+lsg
+cd ..
+dust web_code\
+cd web_code\
+gzip d3.v4.min.js
+dust
+cd ..
+cd helpers\
+python upload.py
+cd ..
+cd web_code\
+gzip c3.min.js
+cd ..
+cd helpers\l
+cd helpers\
+python upload.py
+cd ..
+cd web_code\
+gzip -d c3.min.js.gz
+cd ..
+cd helpers\
+python upload.py
+hx
+tp esp
+cd oven_control\
+cd helpers\
+python upload.py
+touch test.py
+python test.py
+bat temp
+python test.py
+python upload.py
+bat temp
+lsg
+bat received
+python test.py
+python upload.py
+cd ..
+cd web_code\
+rm hello.txt
+cd. .
+cd ..
+cd helpers\
+python upload.py
+hx
+lsg
+hx .gitignore
+git add .
+git commit -m "Rewriting system in C"
+git push
+cd ..
+lsg
+cd oven_control\
+lsg
+rm sdk_backup
+cd ..
+git clone controle-forno-LITel
+git clone https://github.com/Guilherme32/controle-forno-LITel.git
+cd controle-forno-LITel\
+lsg
+cd codigo
+cd ..
+git branch
+git checkout -b rewrite
+git branch
+cd codigo
+git rm esp8266\
+git rm esp8266\ -r
+git add .
+git push
+git push --set-upstream origin rewrite
+git commit -m "Rewriting system in C"
+git push
+cd ..
+hx .gitignore
+git add .gitignore
+git commit -m "Rewriting system in C"
+cd codigo
+git rm .gitignore
+git commit -m "Rewriting system in C"
+git push
+cd ..
+lsg
+conda activate jupyter
+jupyter -h
+jupyter notebook
+lsg
+rm .virtual_documents\ -r
+lsg
+cd codigo
+lsg
+cd main
+lsg
+cd ..
+cd helpers\
+lsg
+git rm received
+git rm temp
+git rm test.py
+git rm test.txt
+lsg
+git commit -m "Rewriting system in C"
+git push 
+cd ..
+cd tests\
+cd test_00\
+touch optimizing_stabilization_power.py
+hx optimizing_stabilization_power.py
+git rm Optimizing_stabilization_power.ipynb
+git add optimizing_stabilization_power.py
+git commit -m "Rewriting system in C"
+git push
+cd ..
+cd imgs\
+lsg
+git rm .ipynb_checkpoints\
+git rm .ipynb_checkpoints\ -r
+touch fuzzy_membership_plots.py
+hx fuzzy_membership_plots.py
+git rm fuzzy_membership_plots.ipynb
+lsg
+hx fuzzy_membership_plots.py
+git commit -m "Rewriting system in C"
+git push
+lsg
+git add fuzzy_membership_plots.py
+git commit -m "Removing notebooks"
+git push
+cd ..
+cd codigo\
+lsg
+cd main
+hx -h
+tutor --health
+hx
+tp esp
+cd controle-forno-LITel\
+cd codigo
+cd main
+lsg
+touch fuzzy_controller.h
+touch fuzzy_controller.c
+bat component.mk
+mkdir include
+mv sensor_reader.h include/sensor_reader.h
+lsg
+cd include\
+lsg
+cd ..
+mv -h
+mv *.h include
+lsg
+git add .
+git commit -m "Rewriting system in C"
+git push
+lsg
+hx
+git add .
+git commit -m "Rewriting system in C"
+git push
+tp esp
+cd controle-forno-LITel\
+cd codigo\
+cd main\
+hx
+git add .
+git commit -m "Rewriting system in C"
+git push
+hx
+cd ..
+hx partitions.csv
+bat partitions.csv
+idf.py size
+make size
+python idf.py size
+cd build
+lsg
+objdump -h
+objdump ove_control
+objdump oven_control.elf
+objdump oven_control.elf | rg elf
+objdump -x oven_control.elf
+objdump oven_control.elf
+objdump -a oven_control.elf
+objdump -f oven_control.elf
+nm --print-size --size-sort --radix=d oven_control.o
+nm --print-size --size-sort --radix=d oven_control.elf
+size -A -d oven_control.elf
+size oven_control.elf
+size
+pip install puncover
+puncover --elf_file oven_control.elf
+$env.Path
+$env.Path = $env.Path:D:\utilitarios_D\ESP8266_RTOS_SDK-master\tools
+$env.Path = $env.Path + [D:\utilitarios_D\ESP8266_RTOS_SDK-master\tools, ]
+cd ..
+D:\utilitarios_D\ESP8266_RTOS_SDK-master\tools\idf.py
+python D:\utilitarios_D\ESP8266_RTOS_SDK-master\tools\idf.py
+python D:\utilitarios_D\ESP8266_RTOS_SDK-master\tools\idf.py size
+python D:\utilitarios_D\tools\idf_size.py
+cd build
+lsg
+python D:\utilitarios_D\tools\idf_size.py oven_control.map
+tp eps
+tp esp
+cd controle-forno-LITel\
+cd codigo\
+cd build
+$env.path | rg utilitarios
+echo $env.Path | rg utilitarios
+cd D:\utilitarios_d
+lsg
+cd tools
+lsg
+python D:\utilitarios_D\tools\idf_size.py *.map
+python D:\utilitarios_D\tools\idf_size.py oven_control.map
+python D:\utilitarios_D\tools\idf_size.py *.map
+clear
+python D:\utilitarios_D\tools\idf_size.py *.map
+hx
+cd main
+git add .
+git commit -m "Rewriting system in C"
+git push
+hx
+git rm storage_nvs.c
+cd include\
+git rm storage_nvs.h
+git commit -m "Rewriting system in C"
+git push
+hx
+cd ..
+hx
+cd ..
+lsg
+cd ..
+cd tests\
+lsg
+cd test_01
+lsg
+cd ..
+cd test_02
+python plot_all_tests.py
+cd ..
+python plot_all_tests.py
+lsg
+rm */*.png
+hx plot_all_tests.py
+python minitest.py
+conda activate bolsa
+conda init nu
+pip install pandas
+python minitest.py
+hx minitest.py
+python minitest.py
+lsg
+hx minitest.py
+git add minitest.py
+git commit -m "Rewriting system in C"
+git push
+hx
+cd ..
+cd codigo
+cd main
+git add .
+git commit -m "Rewriting system in C"
+git changes
+git --h
+git -h
+git diff
+git push
+tp esp
+cd controle-forno-LITel\
+lsg
+cd codigo
+cd includes
+cd include
+lsg
+cd main
+cd include
+bat wifi.h
+cd ..
+bat wifi.c
+bat sensor_reader.c
+bat controller.c
+tp esp
+cd controle-forno-LITel\
+cd codigo
+lsg
+cd main
+hx
+git add sensor_reader.c
+git commit -m "Rewriting system in C"
+git push]
+git push
+cd ..
+lsg
+cd ..
+lsg
+rm ESP8266_RTOS_SDK\ -r
+lsg
+git clone https://github.com/espressif/ESP8266_RTOS_SDK.git
+cd esp8266\
+cd controle-forno-LITel\
+cd codigo
+cd main
+hx fuzzy_controller.c
+tp esp
+cd controle-forno-LITel\
+cd codigo
+hx
+cd main
+objdump -h
+objdump *.elf
+objdump -d *.elf
+objdump -D *.elf
+cd ..
+cd ESP8266_RTOS_SDK\
+lsg
+cd make
+lsg
+bat * | rg COMPILER_OPTIMIZATION_LEVEL
+rg COMPILER_OPTIMIZATION_LEVEL
+rg COMPILER_OPTIMIZATION_LEVEL *
+lsg
+cd ..
+cd build\
+cd ..
+rm -r build\
+hx project.mk
+rg stringop
+rg stringop *
+hx
+hx project.mk
+tp esp
+cd controle-forno-LITel\
+git
+cd ~
+cd .config
+git state
+ls
+lsg
+tp esp
+lsg
+cd controle-forno-LITel\
+lsg
+cd codigo
+lsg
+git add main
+git commit -m "Rewriting system in C"
+git push
+cd main
+lsg
+hx main
+rg TODO
+hx starship.toml
+cd ..
+cd codigo
+cd helpers\
+python upload.py
+python upload.py 192.168.0.103
+hx main.c
+git add helpers.c
+lsg
+hx helpers.c
+git add helpers
+cd ..
+git add helpers\
+rg TODO
+git add main
+git commit -m "Rewriting system in C"
+git push
+git diff
+git diff --name-only
+cd web_code\
+git add style.css
+git commit -m "Rewriting system in C"
+git push
+git diff --name-only
+cd ..
+cd imgs
+deltaT.svg
+hx *.py
+git diff --name-only
+lsg
+git add .
+git commit -m "Rewriting system in C"
+git diff --name-only
+git push
+cd ..
+cd main
+rg /
+tp esp
+lsg
+cd controle-forno-LITel\
+cd codigo
+cd main
+lsg
+cd ..
+cd helpers\
+python upload.py 192.168.0.101
+hx *.py
+python upload.py 192.168.0.101
+touch connect.py
+rm connect.py
+hx wifi.c
+cd ..
+cd web_code\
+hx
+git add control.js
+git commit -m "Rewriting system in C"
+python upload.py 192.168.0.103
+git add upload.py
+cd ..
+git add main
+git add web_code\
+git commit -m "Rewriting system in C"
+git push
+git diff --name-only
+hx control.js
+git diff --name-only
+cargo install gix
+cargo install gitoxide
+tp crab
+lsg
+cd sycamore-tests\
+lsg
+trunk serve
+hx
+tp
+tp crab
+ls
+lsg
+cd sycamore-tests\
+lsg
+hx
+tp crab
+cd sycamore-tests\
+lsg
+trunk serve
+cargo run
+trunk serve
+trunk watch
+trunk serve
+trunk dev
+trunk -h
+trunk config
+trunk config -h
+trunk config show
+trunk serve
+hx
+tp crab
+cd sycamore-tests\
+hx
+trunk serve
+tp crab
+cd sycamore-tests\
+hx
+trunk serve
+tp crab
+cd sycamore-tests\
+hx
+trunk serve
+touch intro.md
+hx intro.md
+nhentai-downloader.exe 344473 419144 435075 264316 422620 83643 309738 421680 397363 182683 198204 419966 325695 391668 415056 401137 173396 338297 287158 399270 217741 131598 271892 211599 370348 175612 308512 184287 394189 193984 365458 312587 214863 266806 266987 312587 251633 358725 261340
+nhentai-downloader.exe --id 344473 419144 435075 264316 422620 83643 309738 421680 397363 182683 198204 419966 325695 391668 415056 401137 173396 338297 287158 399270 217741 131598 271892 211599 370348 175612 308512 184287 394189 193984 365458 312587 214863 266806 266987 312587 251633 358725 261340
+cat 344473 419144 435075 264316 422620 83643 309738 421680 397363 182683 198204 419966 325695 391668 415056 401137 173396 338297 287158 399270 217741 131598 271892 211599 370348 175612 308512 184287 394189 193984 365458 312587 214863 266806 266987 312587 251633 358725 261340 > ids.txt
+cat "344473 419144 435075 264316 422620 83643 309738 421680 397363 182683 198204 419966 325695 391668 415056 401137 173396 338297 287158 399270 217741 131598 271892 211599 370348 175612 308512 184287 394189 193984 365458 312587 214863 266806 266987 312587 251633 358725 261340" > ids.txt
+echo "344473 419144 435075 264316 422620 83643 309738 421680 397363 182683 198204 419966 325695 391668 415056 401137 173396 338297 287158 399270 217741 131598 271892 211599 370348 175612 308512 184287 394189 193984 365458 312587 214863 266806 266987 312587 251633 358725 261340" > ids.txt
+echo "344473 419144 435075 264316 422620 83643 309738 421680 397363 182683 198204 419966 325695 391668 415056 401137 173396 338297 287158 399270 217741 131598 271892 211599 370348 175612 308512 184287 394189 193984 365458 312587 214863 266806 266987 312587 251633 358725 261340" | save ids.txt
+bat ids.txt
+cd D:/
+cd avulsos\
+cd shreks\
+nhentai-downloader.exe --cookie "csrftoken=eyJpdiI6Ik9oTzNaTFo1MnByQzJ1a01FUm1zZVE9PSIsInZhbHVlIjoidnkzTTdvV2dRZCswd2x0MnBnYWZEZk1SeURBT21XSVVtNzZMK0hVb0RiTWFhMWthSVZ4ajZUR0RMN3licXk4dyIsIm1hYyI6Ijc3YTZiYjZmOTczNTBkZWNhMmQwMTEzOGFiNmY4YzZjNTIyZWMxMmJhN2QzOTk4NzEwZWJkZGEwOTEyNzUwYWQifQ%3D%3D; sessionid=eyJpdiI6ImUrQ01tSFVKOWRzempDNFFiRGREbVE9PSIsInZhbHVlIjoiYlpmQktGS2N0WEpMT2k1alRRWlNYdDlyS0E2NmUxU3c3NUpLTUdQNnhXeFREV21mSVBjUTBKZ2QxM3R5MHlJSSIsIm1hYyI6IjZjZDM5Y2QzYWQyY2U5ZjI1Y2Q1NzU4Y2ExNDdlYzFjMDNiODg1NGExMzQ1MDFjN2NlNTE4N2RmNjVjYzJkOGQifQ%3D%3D; cf_clearance=CLOUDFARE"
+pip install nhentai
+pip install pipx
+pipx install nhentai
+pipx install nhentai --include-deps
+nhentai -h
+nhentai
+cd D:\avulsos\shreks\
+pyen
+pyenv
+env
+pyenv
+venv
+python venv shrek
+python -m venv shrek
+lsg
+cd shrek
+lsg
+cd Scripts\
+lsg
+activate.bat 
+activate
+cd d:/
+cd avulsos\shreks\
+lsg
+cd shrek
+lsg
+cd Scripts\
+lsg
+activate
+activate.ps1
+activate.bat
+pip install nhentai
+lsg
+cd ..
+lsg
+cd lib
+lsg
+cd site-packages\
+lsg
+find hentai
+cd ..
+nhentai -h
+python nhentai -h
+cd ..
+pip uninstall nhentai
+pip install nhentai
+nhentai -h
+pip uninstall nhentai
+it clone https://github.com/RicterZ/nhentai
+cd nhentai
+git clone https://github.com/RicterZ/nhentai
+cd nhentai
+python setup.py install
+cd d:/
+lsg
+cd avulsos\
+cd shreks\
+cd nhentai\
+python setup.py install
+python setup.py uninstall
+pip uninstall nhentai
+python setup.py uninstall
+python setup.py install
+python setup.py install --instal-dir .
+python setup.py install --prefix .
+lsg
+cd nhentai\
+lsg
+cd ..
+tree
+cd Scripts\
+lsg
+nhentai -h
+cd ..
+rm -r nhentai\
+lsg
+rm -r shrek\
+mkdir downloader
+cd downloader\
+git clone https://github.com/9-FS/2021-11-15-nHentai-to-PDF/tree/1918b49172e724a3663e446d2faff12915a1ebb5
+https://github.com/9-FS/2021-11-15-nHentai-to-PDF
+git clone https://github.com/9-FS/2021-11-15-nHentai-to-PDF
+cd 2021-11-15-nHentai-to-PDF\
+lsg
+hx cookies.json
+cd ..
+hx get_h_ID_list.py
+pip install requirements.txt
+pip install -r requirements.txt
+python main.py
+hx convert_jpg_to_pdf.py
+pip install kfs
+pip install -r requirements.txt
+cd ..
+rm -r `2021-11-15-nHentai-to-PDF\`
+git clone https://github.com/TacoAnime69/nh-pdf-downloader
+cd nh-pdf-downloader\
+pip install -r requirements.txt
+python __main__.py
+hx ids.txt
+cargo install tre-command
+tre
+tre | bat
+tre -h
+tre -E *.jpg
+tre -h
+tre -l 1
+tre -l 0
+tre -l 1
+tre -h
+tre -E ".jpg"
+cd d:\avulsos\shreks\
+tre
+tre -l 1
+tre | rg pdf
+tre -c | rg pdf
+tre -always | rg pdf
+tre -c always | rg pdf
+tre | rg pdf
+cd files
+`[Abe Morioka] Motomu! Kanbyou I Want It! Nurse Me (Comic Aun 2013-09) [English] [Nanda Sore Scans].pdf`<\n>
+sumatrapdf `[Abe Morioka] Motomu! Kanbyou I Want It! Nurse Me (Comic Aun 2013-09) [English] [Nanda Sore Scans].pdf`<\n>
+tp esp
+lsg
+cd controle-forno-LITel\
+lsg
+glow README.md
+git commit README.md
+git add README.md
+git commit -m "Rewriting system in C"
+git push
+git add README.md
+git commit -m "Rewriting system in C"
+git push
+hx README.md
+cd codigo
+lsg
+cd helpers
+python upload.py
+tp esp
+cd controle-forno-LITel\
+lsg
+cd codigo
+ls
+cd main
+ls
+cd ..
+git add README.md
+git add manual.md
+git commit -m "Updating the documentation"
+git push
+cd ..
+tre
+tre -l 1
+cd codigo
+tre -l 1
+tre -l 2
+tre -l 1
+cd codigo
+tre -l 1
+hx README.md
+git rm README.md
+git commit -m "Updating the documentation"
+git push
+tre -l 1
+cd main
+tre -l 1
+tre
+hx controller.c
+cd include\
+hx
+tp esp
+tre -l 1
+cd controle-forno-LITel\
+cd ~
+cd .config
+lsg
+cd ..
+cd AppData\Roaming\nushell\
+tre
+ls
+lst
+tre -h
+git add manual.md
+git add README.md
+lst
+hx config.nu
+tp esp
+cd controle-forno-LITel
+cd codigo\
+cd main
+git add .
+git add include
+lst
+cd include
+hx sensor_reader.h
+git add .
+git commit -m "Updating the documentation"
+git push
+cd ..
+hx
+git add .
+git commit -m "Updating the documentation"
+git diff
+git push
+git diff -h
+git diff --name-only
+git merge
+git merge main
+git checkouck master
+git checkout master
+cd ..
+cd codigo
+git add sdkconfig.old
+git commit -m "Updating the documentation"
+git push
+git checkout master
+git merge rewrite
+git push
+cd ..
+rg py
+rg micropython
+hx manual.md
+glow manual.md
+git add manual.md
+git commit -m "Updating the documentation"
+git push
+hx manual.md
+git add manual.md
+git commit -m "Updating the documentation"
+git push
+hx manual.md
+git add manual.md
+git commit -m "Updating the documentation"
+git push
+hx manual.md
+git add manual.md
+git commit -m "Updating the documentation"
+git push
+hx manual.md
+git add manual.md
+git commit -m "Updating the documentation"
+git push
+rg python
+git diff
+cd ~
+cd AppData\Roaming\nushell\
+git clone https://github.com/Guilherme32/nushell_config
+lst
+rm nushell_config 
+rm nushell_config -r
+git clone https://github.com/Guilherme32/nushell_config .
+git init
+git add config.nu
+hx env.nu
+git add env.nu
+git commit -m "Initial commit"
+git remote add origin https://github.com/Guilherme32/nushell_config.git
+git push
+git push -u origin main
+git branch -M main
+git push -u origin main
+hx plot_all_steps.py
+python plot_all_steps.py
+pip install seaborn
+python plot_all_steps.py
+hx plot_all_steps.py
+cd build
+sumatrapdf *.pdf
+cd default\
+sumatrapdf *.pdf
+cd ..
+cd src
+lst
+hx index.tex
+tectonic -X watch
+cd build\default
+lst
+sumatrapdf default.pdf
+hx
+whoami
+hx
+tp crab
+lst
+lst -l 2
+tre -l 2
+lst
+cd sycamore-tests\
+lst sycamore-tests
+lsg
+lst
+hx
+cd ~/config
+cd ~/.config
+cd wezterm\
+trunk serve
+hx wezterm.lua
+tp esp
+lst
+tp crab
+cd sycamore-tests\
+lst
+trunk serve
+cargo clean
+trunk serve
+hx
+lst
+git clone https://github.com/plotters-rs
+git clone https://github.com/plotters-rs/plotters-canvas
+trunk serve
+tp crab
+cd sycamore-tests\
+hx
+rustup toolchain list
+rustup target list
+whereis rust-analyzer
+rustup target list
+trunk serve
+hx
+tp crab
+cd sycamore-tests\
+hx
+tp crab
+cd sycamore-tests\
+hx
+cd ..
+lst
+tauri -h
+cargo tauri -h
+trunk serve
+trunk build
+lst
+hx .gitignore
+ls -a
+cd target
+lst
+lsg
+cd wasm32-unknown-unknown\
+lsg
+cd debg
+cd debug
+lsg
+lsg build
+cd build
+lsg
+tre
+cd ..
+cargo tauri init
+lsg
+cd src-tauri\
+lsg
+hx
+cd ..
+rm src-tauri\ -r
+lsg
+lst
+cargo create-tauri-app
+cd sycamore-tauri-test\
+lst
+hx
+cd ..
+cargo tauri dev
+tp crab
+cp sycamore-tests\ sycamore-tauri-integration
+cp sycamore-tests\ sycamore-tauri-integration -r
+cd sycamore-tauri-integration
+trunk serve
+cd ..
+cd sycamore-tauri-test\
+ls
+hx
+tp crab
+cd sycamore-tauri-test\
+lst
+hx Trunk.toml
+cd src-tauri
+lst
+cargo tauri init
+trunk serve
+lst
+cd src-tauri\
+lst
+hx Cargo.toml
+ls src-tauri\icons\
+src-tauri\icons\128x128.png
+open src-tauri\icons\128x128.png
+sumatrapdf src-tauri\icons\128x128.png
+sp
+alias sp = sumatrapdf
+sp
+cargo tauri dev
+trunk -h
+trunk serve -h
+hx tauri.conf.json
+cd ..
+touch Trunk.toml
+cargo tauri dev
+cargo tauri build
+cargo tauri -h
+cargo tauri build -h
+cargo tauri build
+hx tauri.conf.json
+hx
+tp crab
+cd sycamore-tauri-integration\
+tp crab
+cd ~/appdata
+cd Roaming\nushell\
+lst
+hx env
+lst
+cd ..
+lst nushell\
+sp
+hx config.nu
+git add config.nu
+git commit -m "Update config"
+git push
+tp crab
+cd sycamore-tauri-integration\
+tp crab
+cd sycamore-tauri-test\
+cd src-tauri\
+cd src-tauri\
+cd ..
+cargo tauri dev
+hx
+cd ..
+cargo tauri dev
+cargo tauri -h
+lst
+cd sycamore-tauri-integration\
+cargo tauri dev
+hx
+lst
+rm dist -r
+cd src-tauri\
+lst
+rm target -r
+lst
+hx
+cargo tauri dev
+cd ..
+cd sycamore-tauri-integration\
+cd ..
+hx
+cargo tauri dev
+hx
+tp crab
+cd sycamore-tauri-integration\
+cargo tauri dev
+npm
+npm -h
+node -h
+npm -h
+npm install -g npm@9.6.5
+npm install --save-exact esbuild
+hx
+cargo tauri dev
+lst
+cargo tauri dev
+trunk serve
+cargo tauri dev
+cd src-tauri\
+cargo tauri dev
+cd ..
+cargo tauri dev
+node -V
+node -v
+cargo tauri dev
+hx
+trunk serve
+cargo tauri dev
+tp crab
+cd sycamore-tauri-integration\
+cargo tauri dev
+cargo clean
+lst
+rm -r dist
+cd src-tauri\
+lst
+cd ..
+cargo tauri dev
+trunk serve
+cargo tauri dev
+hx
+tp crab
+cd sycamore-tauri-integration\
+cargo tauri dev
+cd ..
+cd bckup\
+cargo tauri dev
+cd ..
+cd sycamore-tauri-integration\
+cargo tauri dev
+hx
+lst
+rm Cargo.lock
+cd src-tauri\
+lst
+tp crab
+cd bckup\
+cd src-tauri\
+lst
+rm Cargo.lock
+rm node_modules\
+rm node_modules\ -r
+rm package-lock.json
+rm package.json
+lst
+cd ..
+cargo tauri dev
+hx
+tp crab
+cd sycamore-tauri-integration\
+cargo tauri dev
+hx
+tp esp
+cd controle-forno-LITel\
+cd codigo\
+cd helpers\
+python upload.py 192.168.0.101
+hx
+lsg
+tp crab
+lsg
+tp crab
+lst
+cd sycamore-tauri-integration\
+cd src-tauri\
+hx
+tp crab
+lst
+cd sycamore-tauri-integration\
+lst
+cd ..
+cargo new -h
+cargo new osa
+lst
+cd osa
+lst
+cd ..
+lst
+cd sycamore-tauri-integration\
+lst
+touch Trunk.toml
+bat Trunk.toml
+hx Trunk.toml
+cargo tauri new
+cd src-tauri\
+lst
+cargo tauri init
+lst
+cd src-tauri\
+hx tauri.conf.json
+bat tauri.conf.json
+lst
+lst
+hx Cargo.toml
+bat Cargo.toml
+cd ..
+lst
+cd ..
+lst
+hx Cargo.toml
+hx Cargo.toml
+touch index.html
+touch style.scss
+hx index.html
+hx
+lst
+bat .gitignore
+cd src-tauri\
+lst
+hx .gitignore
+cd src
+cd ..
+cd src
+lst
+cd ..
+cd osa
+hx main.rs
+hx main.rs
+cargo tauri dev
+cargo install tauri-cli
+tp crab
+cd osa
+cd src-tauri\
+cd src\
+touch file_reader.rs
+cargo tauri dev
+cd ..
+cd src
+touch lib.rs
+cargo tauri dev
+touch spectrum.rs
+tp crab
+cd osa\
+cargo tauri dev
+hx
+tp crab
+cd osa
+git add .
+git commit -m "Working on backend"
+tp crab
+cd osa
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+tp crab
+cd sycamore-tauri-integration\
+cargo tauri dev
+hx
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+hx
+tp crab
+cd osa
+cd osa
+hx
+lst
+rm style.scss
+cargo tauri dev
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+git add .
+git commit -m "Building the system"
+cargo tauri dev
+hx
+tp crab
+cd osa
+git add .
+git commit -m "Building the system"
+tp crab
+cd osa
+hx
+cd osa
+cargo tauri dev
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+cd osa
+git add .
+git commit -m "Building the system"
+git push
+cargo tauri dev
+hx
+hx
+cd osa
+tp crab
+cd osa
+tp crab
+cd osa
+cd ..
+cd sycamore-tauri-integration\
+tp crabv
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+tp cra
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+git add .
+git commit -m "Building the system"
+git add .
+git commit -m "Building the system"
+git -h
+git branch -h
+cargo tauri dev
+git clone https://github.com/Guilherme32/trab-lab
+git -h
+git clone -h
+rm trab-lab\ -r
+cd D:\test\
+git clone https://github.com/Guilherme32/trab-lab
+lst
+cd trab-lab\
+bat README.md
+touch hello.txt
+hx
+git add hello.txt
+git commit
+git push
+git branch -h
+git checkout -h
+git checkout -b tests
+touch hello2.txt
+hx hello2.txt
+git add hello2.txt
+git commit -m "Testing"
+git status
+touch hello2.txt
+git status
+touch hello3;txt
+touch hello3.txt
+git status
+rm hello3
+git status
+git add hello3.txt
+git status
+git commit -m "Testing"
+git push
+git push --set-upstream origin tests
+git merge main
+git merge -h
+git merge
+git checkout main
+git merge
+git merge tests
+git push
+git branch -D tests
+git push
+git -h
+git switch
+git branch -l
+git push
+git push origin -h
+git push origin -D tests
+git push origin -d tests
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+cd ..
+cd sycamore-tauri-integration\
+hx
+cargo tauri dev
+hx
+poetry
+poetry build
+git -h
+git log
+git add pyproject.toml
+git commit -m "Update toml for poetry"
+git diff
+git push
+cd D:/
+cd bolsa
+rm -r process_spectra\
+rm -r process_spectra
+tp crab
+cd osa
+cd ..
+git add .
+git commit -m "Building the system"
+tp osa
+tp crab
+tp
+cd osa
+cargo tauri dev
+hx
+git add .
+git commit -m "Building the system"
+tp crab
+cd osa
+tp crab
+cd osa
+cd ..
+cd sycamore-tauri-integration\
+hx
+cargo tauri dev
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+cd ..
+cd sycamore-tauri-integration\
+cargo tauri dev
+cargo tauri dev3
+cargo tauri dev
+hx
+git add .
+git commit -m "Building the system"
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+hx
+git add .
+git commit -m "Building the system"
+tp crab
+cd osa
+tp crab
+cd osa
+lst
+cd src
+touch api.rs
+lst
+cargo tauri dev
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+cd ..
+cd sycamore-tauri-integration\
+cargo tauri dev
+cd ..
+cd osa
+cargo tauri dev
+hx
+git add .
+git commit -m "Building the system"
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+hx
+cargo tauri dev
+git add .
+git commit -m "Building the system"
+tp crab
+cd osa
+git remote add origin https://github.com/Guilherme32/reliable-osa.git
+git push
+git push -u origin main
+git push --set-upstream origin master
+tp crab
+cd osa
+cargo tauri dev
+w
+hx
+git add .
+git commit -m "Building the frontend"
+git push
+cargo tauri dev
+tp crab
+cd osa
+tp osa
+tp crab
+cd osa
+cargo tauri dev
+hx
+git add .
+git commit -m "Building the frontend"
+git push
+tp crab
+cd osa
+tp crab
+cd osa
+hx
+tp crab
+cd osa
+cargo tauri dev
+tp crab
+cd osa
+cargo tauri dev
+hx
+git add .
+git commit -m "Building the frontend"
+git push
+tp crab
+cd osa
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+tp crab
+cd osa
+tp crab
+cd osa
+hx
+cargo tauri dev
+tp crab
+cd osa
+tp crab
+cd osa
+hx
+git add .
+git commit -m "Building the system"
+git push
+cargo tauri dev
+hx
+git add .
+git commit -m "Integrating log system"
+git push
+hx
+git add .
+git commit -m "Integrating log system"
+git push
+tp crab
+cd osa
+tp crab
+cd osa
+hx
+cargo tauri dev
+cargo tauri clean
+cargo tauri -h
+cargo tauri info
+cargo install cargo-cli
+cargo install tauri-cli
+cargo tauri dev
+jk
+tp crab
+cd osa
+tp crab
+cd osa
+hx
+rg map_or
+rg map
+rg try
+rg try_for
+rg try_
+rgeach
+rg each
+cargo tauri dev
+hx
+git add .
+git commit -m "Finishing the save system"
+git push
+tp crab
+cd osa
+tp crab
+cd osa
+hx
+git add .
+git commit -m "Working on the connection"
+git push
+cargo tauri dev
+tp crab
+cd osa
+tp crab
+cd osa
+hx
+cargo tauri dev
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+hx
+git add .
+git commit -m "Working on the connection"
+git push
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+hx
+git add .
+git commit -m "Working on the configs"
+git push
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+cargo clean
+cargo tauri dev
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+ll
+cd ~/.config
+hx
+lst
+rm config.toml
+lst
+rm rosa.toml
+lst
+touch rosa.toml
+cargo tauri dev
+rm rosa.toml
+touch rosa.toml
+cargo tauri dev
+rm rosa.toml
+bat rosa.toml
+hx rosa.toml
+cargo tauri dev
+jkj
+hx rosa.toml
+cargo tauri dev
+hx
+git add .
+git commit -m "Working on the configs and translating logs to ptbr"
+git push
+tp crab
+cd osa
+tp crab
+cd osa
+cd ~/.config
+hx
+git add .
+git commit -m "Working on the configs"
+git push
+hx
+git add .
+git commit -m "Translating logs to ptbr"
+git push
+cargo tauri dev
+hx rosa.toml
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+hx
+cargo tauri dev
+tp crab
+cd osa
+tp crab
+cd osa
+hx
+cargo tauri dev
+git add .
+git rm style.css
+git commit -m "Updating the color scheme"
+git push
+git rm style.css
+git commit -m "Updating the color scheme"
+git push
+hx ~\.config\rosa.toml
+cd ..
+cd sycamore-tauri-integration\
+hx
+git add .
+git commit -m "Working on the config"
+git push
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+hx
+git add .
+git commit -m "Working on the colors"
+git push
+cargo tauri dev
+hx
+git add .
+git commit -m "Working on the config"
+git push
+tp crab
+cd osa
+cd .config
+lst
+hx starship.toml
+tp crab
+cd osa
+hx
+git add .
+git commit -m "Working on the config"
+git push
+hx
+cargo tauri dev
+tp crab
+cd osa
+tp crab
+cd osa
+cd ..
+cd sycamore-tauri-integration\
+hx
+hx
+cargo tauri dev
+tp crab
+cd osa
+tp crab
+cd osa
+hx
+cargo tauri dev
+tp crab
+cd osa
+cargo tauri dev
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+hx
+git add .
+git commit -m "Working on the config"
+git push
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+tp crab
+cd osa
+tp crab
+cd osa
+hx
+cargo tauri dev
+cd src-tauri\
+cd src
+lst
+mkdir acquisitors
+cd acquisitors\
+touch file_reader.rs
+cd ..
+git add .
+git commit -m "Refactoring to accept more acquisitors"
+git push
+cd src
+lst
+mkdir spectrum_handler
+rm spectrum_handler\
+cd ..
+cd src-tauri\
+cd src
+mkdir spectrum_handler
+mkdir spectrum_handler\acquisitors
+lst
+mv acquisitors spectrum_handler
+mv acquisitors spectrum_handler r
+mv acquisitors spectrum_handler -r
+mv acquisitors spectrum_handler -i
+mv acquisitors spectrum_handler -f
+mv acquisitors/* spectrum_handler\acquisitors\
+tre
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+hx
+cd src
+lst
+mkdir api
+mv api_acquisitors.rs api\acquisitors.rs
+cargo tauri dev
+hx
+tp crab
+cd osa
+tp crab
+cs osa
+cd osa
+cargo tauri dev
+hx
+lst
+tre
+cd src
+git mv -h
+mv api.rs api\mod.rs
+cd ..
+git add .
+git commit -m "Refactoring to accept more acquisitors"
+git push
+cd fonts\
+lst
+git rm CaskaydiaCoveNerdFont-Bold.ttf
+git rm CaskaydiaCoveNerdFont-BoldItalic.ttf
+git rm CaskaydiaCoveNerdFont-ExtraLight.ttf
+git rm CaskaydiaCoveNerdFont-ExtraLightItalic.ttf
+git rm *Semi
+git rm *Semi*
+lst
+git rm *Light*
+git rm *Bold*
+lst
+git rm *Italic*
+lst
+git rm *mono*
+git rm *Mono*
+git rm *Propo*
+lst
+git commit -m "Removing unused fonts"
+git push
+cd ..
+rg TODO
+cargo tauri dev
+clr
+clear
+rg TODO
+git add .
+git commit -m "Dealing with some TODOs"
+git push
+hx
+tp crab
+cd osa
+hx
+tp crab
+cd osa
+hx
+tp crab
+lst
+rm -r tauri_yew_t*
+lst
+rm -r sycamore-tests
+rm -r sycamore-tauri-test
+lst
+lst bckup\
+rm -r bckup\
+cargo new serial_test
+cd serial_test\
+tp crab
+cd osa
+cd ..
+cd serial_test\
+baocn
+bacon
+hx
+cargo install wiki-tui
+wiki-tui
+tp crab
+cd osa
+tp crab
+cd osa
+tp crab
+cd osa
+rg 200
+cd src
+hx main.rs
+cd ..
+cd serial_test\
+cargo tauri dev
+git add .
+git commit -m "Updating polling rate"
+git push
+cd ..
+cd serial_test\
+hx
+bacon
+tp crab
+cd osa
+esptool.py
+pip install esptool.py
+pip install esptool
+esptool.py
+esptool
+python esptool -h
+python esptool.py -h
+pip uninstall esptool
+esptool -h
+esptool erase_flash
+esptool write_flash -\ 0x1000 esp32-20230426-v1.20.0.bin
+esptool write_flash -z 0x1000 esp32-20230426-v1.20.0.bin
+tp crab
+cd serial_test\
+bacon
+hx
+cd ..
+cd serial_test\
+bacon
+tp crab
+clear
+cd osa
+cd src-tauri\
+cd src
+lst
+cd acquisitors\
+lst
+cd ..
+hx
+git rm acquisitors\
+rm acquisitors\
+lst
+hx
+mv spectrum_handler.rs spectrum_handler\mod.rs
+tp crab
+cd osa
+lst
+hx
+rg spectrum_backend
+rg spectrum_handler
+git rm spectrum_backend.rs
+lst
+hx config.rs
+rg file_reader
+git rm file_reader.rs
+lst
+hx
+cargo tauri dev
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+cd src-tauri\
+cd src
+cd ..
+cargo tauri dev
+cd serial_test\
+lst
+bat Cargo.toml
+cd src
+hx
+tp crab
+cdosa
+cd osa
+tp crab
+cd osa
+cd src-tauri\
+cd src\
+cargo tauri dev
+hx
+git add .
+git commit
+git push
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+cd src
+lst
+mv config_renders.rs acquisitor_config_renders.rs
+mkdir side_bar
+mv side_bar.rs side_bar\mod.rs
+lst
+mv acquisitor_config_renders.rs side_bar\acquisitor_config_renders.rs
+lst
+rm acquisitor_config_renders.rs
+cargo tauri dev
+hx
+git add .
+git commit
+git push
+cd src-tauri
+lst
+cd icons
+cargo tauri icon -h
+cargo tauri icon
+cd ..
+cargo tauri icon
+cargo tauri dev
+cargo clean
+cargo tauri dev
+cargo build
+cargo tauri build
+hx
+git add .
+cargo tauri build
+git commit
+git push
+hx
+cargo tauri build
+cargo tauri --version
+tp crab
+cd osa
+cargo tauri build
+hx
+cargo tauri build
+git add .
+git commit
+git push
+hx
+git add .
+git commit -m "Update name"
+git push
+cargo tauri build
+lst
+gzip -d control.js.gz
+hx
+tp crab
+cd osa
+hx
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri build
+git add .
+git commit -m "Testing with the IMON"
+git push
+hx
+tp crab
+cd osa
+hx
+rg Timeout
+tp crab
+cd osa
+rg Timeout
+hx
+rg Timeout
+cargo tauri build
+git add .
+git commit -m "Reducing polling rates"
+git push
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri build
+hx
+cargo tauri dev
+cargo tauri build
+git add .
+git commit -m "Fixing stuff to work on IMON"
+gi push
+gix push
+git push
+tp crab
+cd osa
+cargo tauri build
+lst
+cd dist
+lst
+cd ..
+cargo tauri build
+hx
+git add .
+git commit -m "Fixing stuff to work on IMON"
+git push
+tp crab
+cd osa
+tp crab
+cd osa
+cargo tauri dev
+hx
+git add.
+git add .
+git commit -m "Fixing stuff to work on IMON"
+git push
+tp esp
+cd deforminator\main\
+hx
+lst
+rm sensor_reader.c
+rm include\sensor_reader.h
+rm fuzzy_controller.c
+lst
+rg delay
+tg pin
+rg PIN
+tp esp
+cd deforminator\main\
+hx
+tp esp
+cd deforminator\web_code\
+lst
+control.html
+open control.html
+bat control.html
+mozila
+firefox
+open
+start
+start .
+start control.html
+hx
+tp esp
+cd deforminator\
+cd web_code\
+hx
+tp esp
+cd deforminator\
+cd web_code\
+hx
+tp esp
+cd deforminator\main\
+hx
+tp crab
+cd osa
+cd src-tauri\
+cd src\
+hx
+tp esp
+cd deforminator\
+cd code
+cd helpers\
+python upload.py
+python upload.py 192.168.0.106
+cd ..
+cd deforminator\
+cd helpers\
+python upload.py 192.168.0.106
+cd ..
+cd web_code\
+cargo install trashy
+trash -h
+trash c3.*
+trash d3.*
+lst
+python upload.py 192.168.0.106
+hx
+python upload.py 192.168.0.106
+tp esp
+cd deforminator\
+hx
+tp esp
+cd deforminator\main\
+start .
+hx
+tp esp
+cd deforminator\
+cd main
+cd ~/.config
+lst
+cd %appdata%
+cd ..\AppData\Roaming\nushell\
